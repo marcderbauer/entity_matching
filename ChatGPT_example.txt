@@ -1,0 +1,61 @@
+PROMPT
+
+"Hong Kong: Tiananmen anniversary arrests highlight deepening repression
+Responding to the arrests of four people for seditious intention and disorderly conduct in Hong Kong ahead of the 34th anniversary of the Tiananmen crackdown, Amnesty Internationals interim Deputy Regional Director for Research Montse Ferrer said:
+The Hong Kong government is once again using colonial-era sedition charges to enable its crackdown on freedom of expression as it attempts to stop people commemorating the horrific events of 4 June 1989.
+But the fact that Hongkongers continue to mark the Tiananmen crackdown, despite the ever-growing risks, lays bare the futility of the authorities attempts to enforce silence and obedience.
+The Hong Kong governments shameful campaign to stop people marking this anniversary mirrors the censorship of the Chinese central government and is an insult to those killed in the Tiananmen crackdown.
+All those arrested simply for exercising their right to freedom of expression should be immediately released, and the Hong Kong police must refrain from targeting others who try to peacefully mark this important anniversary. Commemorating the Tiananmen crackdown is not a crime.
+Background
+Eight people were detained near Hong Kongs Victoria Park on Saturday 3 June for what police described as displaying protest items loaded with seditious wordings, chanting and committing unlawful acts.
+Two of those detained have since been released, but the four arrested for seditious intention and disorderly conduct could face up to two years in prison.
+Those arrested include two people who had held aloft pieces of paper saying, personal commemoration, hunger strike for 8964 3.4 seconds (referencing the year, date and anniversary of the crackdown) and holding flowers. Another arrested, an artist, had reportedly chanted, Dont forget June 4! Hong Kong people, dont be afraid of them!
+Every year on 4 June since 1990, up to hundreds of thousands of people joined a candlelight vigil in Hong Kongs Victoria Park to remember those killed during the Tiananmen crackdown. They called on the Chinese authorities to reveal the truth about what happened and take accountability for the fatalities. The vigil was banned in 2020 and 2021, ostensibly on Covid-19 grounds.
+Last year authorities closed parts of Victoria Park citing potential illegal activities. This year it was unavailable due to the hosting of an outdoor market organized by pro-Beijing groups, including those sponsored by the Chief Executive and former and current members of Chinas National Peoples Congress.
+The organizer of the past vigils, the Hong Kong Alliance in Support of Patriotic Democratic Movements of China, was forced to disband in September 2021 after coming under increasing pressure since the enactment of Hong Kongs national security law in June 2020. Several of its senior figures, including human rights lawyer Chow Hang-tung, have been prosecuted under inciting subversion charges for their peaceful activism.
+The Alliance is one of numerous prominent civil society organizations or political groups forced to close after being targeted by the Hong Kong police on national security grounds.
+Every year the vigil in Hong Kong featured a recorded message from the Tiananmen Mothers, family members of those killed, who are still seeking a full government account of the deaths, lawful compensation and investigation of criminal responsibility.
+Hundreds ’ possibly thousands ’ of people were killed in and around Beijings Tiananmen Square on 4 June 1989 when Chinese troops opened fire on students and workers who had been peacefully calling for political and economic reforms as well as an end to corruption. Tens of thousands were arrested across China in the suppression that followed. Many were charged with counter-revolutionary crimes and served very long prison sentences following unfair trials.
+Regularly since 1989, activists in mainland China have been detained and charged with subversion or picking quarrels if they commemorate those who were killed, call for the release of prisoners or criticize government actions during the Tiananmen crackdown.
+
+Could you extract all relations as triples in form (entity1|entity2|relation)?
+
+----
+
+OUTPUT
+
+Sure! Here are the extracted relations as triples from the provided text:
+
+(Hong Kong | Tiananmen anniversary arrests | highlight)
+(Hong Kong | four people | arrests)
+(Hong Kong | seditious intention and disorderly conduct | arrests)
+(Amnesty International's interim Deputy Regional Director for Research Montse Ferrer | responding to | arrests)
+(Hong Kong government | colonial-era sedition charges | enable crackdown)
+(Hong Kong government | freedom of expression | crackdown)
+(Hongkongers | Tiananmen crackdown | continue to mark)
+(Hong Kong government | attempts | enforce silence and obedience)
+(Hong Kong government | campaign | stop people marking)
+(Hong Kong government | censorship of Chinese central government | mirrors)
+(Hong Kong government | insult | killed in Tiananmen crackdown)
+(those arrested | exercising their right to freedom of expression | should be immediately released)
+(Hong Kong police | refrain from targeting | others who try to peacefully mark)
+(Commemorating Tiananmen crackdown | not a crime)
+(Eight people | detained near Hong Kong's Victoria Park | police described)
+(police | displaying protest items loaded with seditious wordings, chanting and committing unlawful acts | detained)
+(Four arrested | seditious intention and disorderly conduct | could face up to two years in prison)
+(Two people | held aloft pieces of paper saying personal commemoration, hunger strike for 8964 3.4 seconds | detained)
+(artist | chanted, Don't forget June 4! Hong Kong people, don't be afraid of them! | detained)
+(candlelight vigil | Victoria Park | joined up to hundreds of thousands of people)
+(candlelight vigil | remember those killed during the Tiananmen crackdown | joined up to hundreds of thousands of people)
+(candlelight vigil | called on Chinese authorities | reveal the truth about what happened and take accountability for the fatalities | joined up to hundreds of thousands of people)
+(vigil | banned in 2020 and 2021 | on Covid-19 grounds)
+(authorities | closed parts of Victoria Park | citing potential illegal activities)
+(Victoria Park | unavailable due to the hosting of an outdoor market organized by pro-Beijing groups, including those sponsored by the Chief Executive and former and current members of China's National People's Congress)
+(organizer of past vigils | Hong Kong Alliance in Support of Patriotic Democratic Movements of China | forced to disband)
+(Hong Kong Alliance in Support of Patriotic Democratic Movements of China | forced to disband in September 2021 | coming under increasing pressure)
+(Several of its senior figures, including human rights lawyer Chow Hang-tung | prosecuted under inciting subversion charges | for their peaceful activism)
+(Alliance | numerous prominent civil society organizations or political groups | forced to close)
+(vigil in Hong Kong | featured a recorded message from the Tiananmen Mothers, family members of those killed | seeking a full government account of the deaths, lawful compensation, and investigation of criminal responsibility)
+(Hundreds | possibly thousands | killed in and around Beijing's Tiananmen Square, on 4 June 1989, when Chinese troops opened fire on students and workers)
+(students and workers | peacefully calling for political and economic reforms, as well as an end to corruption | killed)
+(Tens of thousands | arrested across China | in the suppression that followed)
