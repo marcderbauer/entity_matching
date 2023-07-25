@@ -10,7 +10,7 @@ Usually it's performed on product descriptions which may or may not refer to the
 This solution is by no means state-of-the-art, but it may serve as a nice baseline for comparison with other methods.
 Furthermore, it comes with a nice visualisation function which could help make it easier to spot duplicates.
 
-![Visualisation](similarities_example.png)
+![Visualisation](resources/similarities_example.png)
 
 ## How To Run
 

@@ -13,7 +13,7 @@ from sentence_splitter import SentenceSplitter
 from sentence_transformers import SentenceTransformer
 
 nlp = spacy.load("en_core_web_sm")
-DATA_PATH = "data.tsv"
+DATA_PATH = "resources/data.tsv"
 ONE_MONTH_IN_SECONDS = 2764800
 
 # https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
